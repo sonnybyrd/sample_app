@@ -20,6 +20,7 @@ gem 'jquery-rails'
 
 group :test do
 	gem 'rspec', '2.12.0'
+	gem 'spork', '0.8.4'
 end
 
 group :production do
